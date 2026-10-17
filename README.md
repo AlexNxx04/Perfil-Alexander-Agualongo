@@ -16,7 +16,7 @@ Soy un Ingeniero en Software enfocado en el desarrollo backend, la automatizaci�
 
 ## 📈 Experiencia y Proyectos Destacados
 
-### 🚍 [Sistema Web de Control Operativo - Transporte Terrestre](https://github.com)
+### 🚍 [Sistema Web de Control Operativo - Transporte Terrestre]([https://github.com](https://github.com/AlexNxx04/sistema_antoniopolo)
 Este es mi **Proyecto de Titulación** para la *Universidad Estatal de Bolívar*. Diseñé e implementé una solución backend empresarial utilizando **Laravel** y **SQL** para monitorear unidades de transporte en el cantón Guaranda mediante puntos de geolocalización de manera estratégica.
 *   **Logros:** Estructuración estricta en MVC, base de datos versionada mediante migraciones de código y documentación arquitectónica con diagramas de Casos de Uso.
 
